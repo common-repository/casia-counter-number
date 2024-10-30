@@ -1,0 +1,53 @@
+.cascn_counter {
+	min-height: 200px;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.cascn_counter__img-place {
+	height: 84px;
+	width: 84px;
+}
+
+.cascn_counter__el {
+	display: inline-block;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	position: relative;
+	z-index: 99;
+	color: white;
+	color: black;
+}
+
+.cascn_counter__el {
+	max-width: 234px;
+	vertical-align: top;
+}
+
+.cascn_counter__el p {
+	font-weight: bold;
+}
+
+.cascn_counter__el img {
+	background-color: white;
+	padding: 10px;
+}
+
+.cascn_counter__number {
+	margin-bottom: 0;
+	font-size: 30px;
+	margin-top: 0;
+	min-height: 54px;
+}
+
+.cascn_counter__title {
+	margin-bottom: 0;
+	margin-top: 0;
+	font-size: 22px;
+}
